@@ -1,7 +1,7 @@
 # Barberapp_react_native
 Barberapp desenvolvido com react native para encontrar barbeiros assistindo as aulas do Bonieky Lacerda !!
 
-- Aprendi mais sobre permissões, ícones, navegação, usar fotos svg, geolocalização, useContext, useReducer, modal, Swiper, RefreshControl, ActivityIndicator, Stars, e muitas outras coisas
+- Aprendi mais sobre permissões, ícones, styled-components, navegação, usar fotos svg, geolocalização, useContext, useReducer, modal, Swiper, RefreshControl, ActivityIndicator, Stars, e muitas outras coisas
 
 - Conteúdos abordados:
   -  "@react-native-community/async-storage": "^1.12.1",
