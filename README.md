@@ -25,4 +25,4 @@ Barberapp desenvolvido com react native para encontrar barbeiros assistindo as a
   #  Segue fotos de exemplo do App.
 	
 	
-    
+    ![gif_barber](https://user-images.githubusercontent.com/57158431/98112713-588a3880-1e81-11eb-8bca-778433eab7d6.gif)
